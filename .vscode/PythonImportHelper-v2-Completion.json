@@ -1,0 +1,743 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "django.urls",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "social.models",
+        "description": "social.models",
+        "isExtraImport": true,
+        "detail": "social.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "importPath": "social.models",
+        "description": "social.models",
+        "isExtraImport": true,
+        "detail": "social.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "LoginView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "importPath": "django.contrib.auth.views",
+        "description": "django.contrib.auth.views",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "django.contrib.auth.decorators",
+        "description": "django.contrib.auth.decorators",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "redSocial.asgi",
+        "description": "redSocial.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "redSocial.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = '8wj0nxiyej1siq@-yjo3vip0xy=5-+22rfg(+p65sa$shcpbm8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "SECRET_KEY = '8wj0nxiyej1siq@-yjo3vip0xy=5-+22rfg(+p65sa$shcpbm8'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.humanize',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.humanize',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.humanize',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.humanize',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'social.apps.SocialConfig',\n]",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'redSocial.urls'",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "ROOT_URLCONF = 'redSocial.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'redSocial.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'es-co'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')\nLOGIN_REDIRECT_URL = 'feed'",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')\nLOGIN_REDIRECT_URL = 'feed'\nLOGIN_URL='login'",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')\nLOGIN_REDIRECT_URL = 'feed'\nLOGIN_URL='login'",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')\nLOGIN_REDIRECT_URL = 'feed'\nLOGIN_URL='login'",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nMEDIA_URL='/media/'\nMEDIA_ROOT= os.path.join(BASE_DIR,'media')\nLOGIN_REDIRECT_URL = 'feed'\nLOGIN_URL='login'",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGIN_REDIRECT_URL",
+        "kind": 5,
+        "importPath": "redSocial.settings",
+        "description": "redSocial.settings",
+        "peekOfCode": "LOGIN_REDIRECT_URL = 'feed'\nLOGIN_URL='login'",
+        "detail": "redSocial.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "redSocial.urls",
+        "description": "redSocial.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('' ,include('social.urls')),\n]",
+        "detail": "redSocial.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "redSocial.wsgi",
+        "description": "redSocial.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "redSocial.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "social.migrations.0001_initial",
+        "description": "social.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='profile',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "social.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "social.migrations.0002_post_content",
+        "description": "social.migrations.0002_post_content",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('social', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='post',\n            name='content',\n            field=models.TextField(default=' '),\n        ),",
+        "detail": "social.migrations.0002_post_content",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "social.migrations.0003_profile_image",
+        "description": "social.migrations.0003_profile_image",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('social', '0002_post_content'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='profile',\n            name='image',\n            field=models.ImageField(default='batman.png', upload_to=''),\n        ),",
+        "detail": "social.migrations.0003_profile_image",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "social.migrations.0004_auto_20210221_1941",
+        "description": "social.migrations.0004_auto_20210221_1941",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('social', '0003_profile_image'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='post',\n            name='user',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='posts', to=settings.AUTH_USER_MODEL),",
+        "detail": "social.migrations.0004_auto_20210221_1941",
+        "documentation": {}
+    },
+    {
+        "label": "SocialConfig",
+        "kind": 6,
+        "importPath": "social.apps",
+        "description": "social.apps",
+        "peekOfCode": "class SocialConfig(AppConfig):\n    name = 'social'\n    def ready(self):\n        import social.signals",
+        "detail": "social.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegisterForm",
+        "kind": 6,
+        "importPath": "social.forms",
+        "description": "social.forms",
+        "peekOfCode": "class UserRegisterForm(UserCreationForm):\n    email= forms.EmailField()\n    password1=forms.CharField(label='Contraseña' , widget=forms.PasswordInput)\n    password2=forms.CharField(label='confirmar Contraseña' , widget=forms.PasswordInput)\n    class Meta:\n        model=User\n        fields = ['username' , 'email' ,'password1' ,'password2']\n        help_texts={k:\"\" for k in fields}\nclass PostForm(forms.ModelForm):\n    content = forms.CharField(label='',widget=forms.Textarea(attrs={'rows':2, 'placeholder' : '¿Qué está pasando?'}), required= True)",
+        "detail": "social.forms",
+        "documentation": {}
+    },
+    {
+        "label": "PostForm",
+        "kind": 6,
+        "importPath": "social.forms",
+        "description": "social.forms",
+        "peekOfCode": "class PostForm(forms.ModelForm):\n    content = forms.CharField(label='',widget=forms.Textarea(attrs={'rows':2, 'placeholder' : '¿Qué está pasando?'}), required= True)\n    class Meta:\n        model=Post\n        fields=['content']",
+        "detail": "social.forms",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 6,
+        "importPath": "social.models",
+        "description": "social.models",
+        "peekOfCode": "class profile(models.Model):\n    user=models.OneToOneField(User, on_delete=models.CASCADE)\n    image=models.ImageField(default='batman.png')\n    def __str__(self):\n        return f'perfil de {self.user.username}'\n    def following(self):\n        user_ids=Relationship.objects.filter(from_user=self.user).values_list('to_user_id',flat=True)\n        return User.objects.filter(id__in=user_ids)\n    def followers(self):\n        user_ids=Relationship.objects.filter(to_user=self.user).values_list('from_user_id',flat=True)",
+        "detail": "social.models",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "social.models",
+        "description": "social.models",
+        "peekOfCode": "class Post(models.Model):\n    user=models.ForeignKey(User, on_delete=models.CASCADE, related_name='posts')\n    timestamp=models.DateTimeField(default=timezone.now)\n    content=models.TextField(default=\" \")\n    class Meta:\n        ordering  = ['-timestamp']\n    def __str__(self):\n        return f'{self.user.username}: {self.content}'\nclass Relationship(models.Model):\n    from_user=models.ForeignKey(User,related_name='realationships' , on_delete=models.CASCADE)",
+        "detail": "social.models",
+        "documentation": {}
+    },
+    {
+        "label": "Relationship",
+        "kind": 6,
+        "importPath": "social.models",
+        "description": "social.models",
+        "peekOfCode": "class Relationship(models.Model):\n    from_user=models.ForeignKey(User,related_name='realationships' , on_delete=models.CASCADE)\n    to_user= models.ForeignKey(User,related_name='related_to' ,on_delete=models.CASCADE)\n    def __str__(self):\n        return f'{self.from_user} to {self.to_user}'\n        class Meta:\n            indexes=[\n                models.Index(fields=['from_user' , 'to_user']),\n            ]",
+        "detail": "social.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_profile",
+        "kind": 2,
+        "importPath": "social.signals",
+        "description": "social.signals",
+        "peekOfCode": "def create_profile(sender, instance, created, **kwargs):    \n    if created:\n        profile.objects.create(user=instance)",
+        "detail": "social.signals",
+        "documentation": {}
+    },
+    {
+        "label": "feed",
+        "kind": 2,
+        "importPath": "social.views",
+        "description": "social.views",
+        "peekOfCode": "def feed(request):\n    posts= Post.objects.all()\n    context={'posts':posts}\n    return render(request,'social/feed.html',context)\ndef register(request):\n    if request.method=='POST':\n        form = UserRegisterForm(request.POST)\n        if form.is_valid():\n            form.save()\n            username=form.cleaned_data['username']",
+        "detail": "social.views",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "social.views",
+        "description": "social.views",
+        "peekOfCode": "def register(request):\n    if request.method=='POST':\n        form = UserRegisterForm(request.POST)\n        if form.is_valid():\n            form.save()\n            username=form.cleaned_data['username']\n            messages.success(request, f'usuario {username} creado')\n            return redirect('feed')\n    else:\n        form = UserRegisterForm()",
+        "detail": "social.views",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "social.views",
+        "description": "social.views",
+        "peekOfCode": "def profile(request, username=None):\n    current_user=request.user\n    if username and username != current_user.username:\n        user=User.objects.get(username=username)\n        posts=user.posts.all()\n    else:\n        posts =current_user.posts.all()\n        user=current_user\n    return render(request, 'social/profile.html', {'user' :user, 'posts':posts})\n@login_required",
+        "detail": "social.views",
+        "documentation": {}
+    },
+    {
+        "label": "post",
+        "kind": 2,
+        "importPath": "social.views",
+        "description": "social.views",
+        "peekOfCode": "def post(request):\n    current_user=get_object_or_404(User, pk=request.user.pk)\n    if request.method=='POST':\n        form= PostForm(request.POST)\n        if form.is_valid():\n            post = form.save(commit=False)\n            post.user=current_user\n            post.save()\n            messages.success(request, 'Post enviado')\n            return redirect('feed')",
+        "detail": "social.views",
+        "documentation": {}
+    },
+    {
+        "label": "follow",
+        "kind": 2,
+        "importPath": "social.views",
+        "description": "social.views",
+        "peekOfCode": "def follow(request, username):\n    current_user=request.user\n    to_user=User.objects.get(username=username)\n    to_user_id=to_user\n    rel=Relationship(from_user=current_user, to_user=to_user_id)\n    rel.save()\n    messages.success(request, f'sigues a {username}')\n    return redirect('feed')\ndef unfollow(request, username):\n    current_user=request.user",
+        "detail": "social.views",
+        "documentation": {}
+    },
+    {
+        "label": "unfollow",
+        "kind": 2,
+        "importPath": "social.views",
+        "description": "social.views",
+        "peekOfCode": "def unfollow(request, username):\n    current_user=request.user\n    to_user=User.objects.get(username=username)\n    to_user_id=to_user.id\n    rel=Relationship.objects.filter(from_user=current_user.id, to_user=to_user_id).get()\n    rel.delete()\n    messages.success(request, f'ya no sigues a {username}')\n    return redirect('feed')",
+        "detail": "social.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'redSocial.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
